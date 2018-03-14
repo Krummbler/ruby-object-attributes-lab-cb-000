@@ -7,12 +7,12 @@ class Dog
     @name
   end
 
-  def breeds=(dogs_breed)
+  def breed=(dogs_breed)
     @breed = dogs_breed
   end
 
   def breed
     @breed
   end
-  
+
 end
